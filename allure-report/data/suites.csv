@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1272","Realizar login bem sucedido","","Sun Dec 08 22:41:31 BRT 2024","passed","Sun Dec 08 22:41:32 BRT 2024","","Validar Login","Validar Login","Realizar login bem sucedido"
+"","1292","Validar tela de checkout","","Sun Dec 08 22:41:35 BRT 2024","passed","Sun Dec 08 22:41:36 BRT 2024","","Validar checkout","Validar checkout","Validar tela de checkout"
+"","1441","Adicionar produto ao carrinho","","Sun Dec 08 22:41:32 BRT 2024","passed","Sun Dec 08 22:41:33 BRT 2024","","Validar carrinho","Validar carrinho","Adicionar produto ao carrinho"
+"","2265","Concluir checkout com sucesso","","Sun Dec 08 22:41:36 BRT 2024","passed","Sun Dec 08 22:41:39 BRT 2024","","Validar checkout","Validar checkout","Concluir checkout com sucesso"
+"","2500","Acessar página com sucesso","","Sun Dec 08 22:41:28 BRT 2024","passed","Sun Dec 08 22:41:31 BRT 2024","","Validar Login","Validar Login","Acessar página com sucesso"
+"","1668","Verificar carrinho com itens","","Sun Dec 08 22:41:33 BRT 2024","passed","Sun Dec 08 22:41:35 BRT 2024","","Validar carrinho","Validar carrinho","Verificar carrinho com itens"
+"","1423","Realizar Logout com sucesso","","Sun Dec 08 22:41:39 BRT 2024","passed","Sun Dec 08 22:41:40 BRT 2024","","Validar Logout","Validar Logout","Realizar Logout com sucesso"

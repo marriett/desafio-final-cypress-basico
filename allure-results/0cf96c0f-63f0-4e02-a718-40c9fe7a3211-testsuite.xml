@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1733708495567' stop='1733708499169'>
+    <name>Validar checkout</name>
+    <title>Validar checkout</title>
+    <test-cases>
+        <test-case start='1733708495573' status='passed' stop='1733708496865'>
+            <name>Validar tela de checkout</name>
+            <title>Validar tela de checkout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733708496882' status='passed' stop='1733708499147'>
+            <name>Concluir checkout com sucesso</name>
+            <title>Concluir checkout com sucesso</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

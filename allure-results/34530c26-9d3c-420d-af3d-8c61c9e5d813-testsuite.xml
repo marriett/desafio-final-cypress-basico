@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1733707005292' stop='1733707008427'>
+    <name>Validar carrinho</name>
+    <title>Validar carrinho</title>
+    <test-cases>
+        <test-case start='1733707005294' status='passed' stop='1733707006672'>
+            <name>Adicionar produto ao carrinho</name>
+            <title>Adicionar produto ao carrinho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733707006685' status='passed' stop='1733707008407'>
+            <name>Verificar carrinho com itens</name>
+            <title>Verificar carrinho com itens</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
