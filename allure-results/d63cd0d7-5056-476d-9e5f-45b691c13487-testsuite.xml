@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1733708499172' stop='1733708500600'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1733786212467' stop='1733786213915'>
     <name>Validar Logout</name>
     <title>Validar Logout</title>
     <test-cases>
-        <test-case start='1733708499177' status='passed' stop='1733708500600'>
+        <test-case start='1733786212467' status='passed' stop='1733786213915'>
             <name>Realizar Logout com sucesso</name>
             <title>Realizar Logout com sucesso</title>
             <labels/>

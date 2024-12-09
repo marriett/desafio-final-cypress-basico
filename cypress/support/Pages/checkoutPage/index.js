@@ -6,10 +6,10 @@ class CheckoutPage {
         cy.get(elem.headerTitle).should('have.text', "Checkout: Your Information")
     }
 
-    fazerCheckout() {
-        cy.get(elem.userFirstName).type('Ada')
-        cy.get(elem.userLastName).type('Lovelace')
-        cy.get(elem.userPostalcode).type('123412124')
+    fazerCheckout(firstName, lastName, zipCode) {
+        cy.get(elem.userFirstName).type(firstName)
+        cy.get(elem.userLastName).type(lastName)
+        cy.get(elem.userPostalcode).type(zipCode)
         cy.get(elem.submitButton).should('be.visible').click()
         cy.get(elem.headerTitle).should('have.text', "Checkout: Overview")
     }

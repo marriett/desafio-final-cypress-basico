@@ -12,9 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
     "allure-commandline": "^2.32.0",
     "cypress": "^13.16.1",
-    "faker": "^6.6.6",
     "mocha-allure-reporter": "^1.4.0"
   }
 }
